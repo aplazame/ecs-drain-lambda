@@ -3,7 +3,7 @@ module github.com/getsocial-rnd/ecs-drain-lambda
 go 1.12
 
 require (
-	github.com/aws/aws-lambda-go v1.23.0
+	github.com/aws/aws-lambda-go v1.32.1
 	github.com/aws/aws-sdk-go v1.38.4
 	github.com/kr/text v0.2.0 // indirect
 	golang.org/x/net v0.0.0-20210324205630-d1beb07c2056 // indirect
